@@ -7,6 +7,6 @@ The ecosystem is initialized with the random population of fish. Each fish has a
 In the simulated environment, we can provide food for the fish(by clicking anywhere on the window) or the dead fishes’ leftover is converted to food for the remaining fishes. Every time a fish ingests food, its health is increased by 5.
 And like in traditional Genetic Algorithm, it doesn’t have any fitness function.so, it the survival of the survivors model rather than the survival of fittest.
 
-Tweak the parameters and do all sorts of crazy stuff like restricting the gender to be of one kind and let the fishes find a way to reproduce, add a hunting feature, traits to attract opposite sex etc.
+Tweak the parameters and do all sorts of crazy stuff like restricting the gender to be of one kind and let the fishes find a way to reproduce, add a hunting feature, traits to attract opposite sex, etc.
 
 Actually, the fishes are static images(chosen based on their DNA) and I end up using them rather than dynamically structure fishes based on their DNA.
