@@ -1,4 +1,4 @@
-# Continuous-Evolutionary-System---Genetic-Algorithm-
+# Continuous-Evolutionary-System---Genetic-Algorithm
 
                                            An Evolution simulator of sea life.
                                     -- inspired from Daniel Shiffman(TheCodingTrain)    
